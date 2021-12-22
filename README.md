@@ -20,10 +20,10 @@
 <b> 🎬 I am ready to start your project immediately.</b>
 ## Core skills
 - 💽 <b>Programing Languages</b> : HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP, Python, C++/C#, QT
-- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, React Native, Redux, Next, Vue, TailwindCSS, Material-UI, Kendo-UI, Django, Laravel, Node.js, Express.js, Three.js, Babylon.js, WebGL, Blockchain, WebRTC, GraphQL, Gatsby.js
+- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, React Native, Redux, Next.js, Gatsby.js, Vue, TailwindCSS, Material UI, Ant Design, Django, Node.js, Express.js, Three.js, Babylon.js, WebGL, Blockchain, WebRTC, GraphQL
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
-- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
+- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman, etc
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 - 💻 <b>Operation System</b> : Windows, Linux, MacOS
 <!--<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark"/></p>-->
