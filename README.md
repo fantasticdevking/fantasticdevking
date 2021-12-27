@@ -1,9 +1,9 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Creative, Passionate and Efficient Full-Stack Engineer</h2>
 <p>
-<p>
-  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-<!--   <img width="40%" src="https://www.manageengine.com/images/msp-banner.svg" /> -->
-</p>
+  <p>
+    <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  <!--   <img width="40%" src="https://www.manageengine.com/images/msp-banner.svg" /> -->
+  </p>
 <!-- <p align="center"><img src="https://scopetech.sa/static/media/react2.bd316a31.gif" /></p> -->
 <!-- <p align="center"><img src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" /></p> -->
 <p>
@@ -18,11 +18,13 @@
 <!--<b> 📝 Please check <a href="https://cvdesignr.com/p/618960fde7a23">My Resume</a></b>-->
 
 <b> 🎬 I am ready to start your project immediately.</b>
-## Core skills
+## My Core Skill Stack
 - 💽 <b>Programing Languages</b> : HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP, Python, C++/C#, QT
-- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, React Native, Redux, Next.js, Gatsby.js, Vue, TailwindCSS, Material UI, Ant Design, Django, Node.js, Express.js, Three.js, Babylon.js, WebGL, Blockchain, WebRTC, GraphQL
-- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
+- 📗 <b>Frontend</b> : React, React Native, Redux, Next.js, Gatsby.js, Vue.js, Three.js, Babylon.js, WebGL, D3.js, TailwindCSS, Material-UI, AntDesign, KendoUI
+- 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
+- 🗃 <b>Top Skill</b> : Blockchain(Solidity, Web3.js), WebRTC, 3D Design, OpenCV, Machine Learning
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
+- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman, etc
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 - 💻 <b>Operation System</b> : Windows, Linux, MacOS
