@@ -20,9 +20,9 @@
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
 - 💽 <b>Programing Languages</b> : HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP, Python, C++/C#, QT
-- 📗 <b>Frontend</b> : React, React Native, Redux, Next.js, Gatsby.js, Vue.js, Three.js, Babylon.js, WebGL, D3.js, TailwindCSS, Material-UI, AntDesign, KendoUI
+- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Gatsby.js, Vue.js, Three.js, Babylon.js, WebGL, D3.js, TailwindCSS, Material-UI, AntDesign, KendoUI
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
-- 🗃 <b>Top Skill</b> : Blockchain(Solidity, Web3.js), WebRTC, 3D Design, OpenCV, Machine Learning
+- 🥇 <b>Top Skill</b> : Blockchain(Solidity, Web3.js), WebRTC, 3D Design, OpenCV, Machine Learning
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman, etc
