@@ -19,13 +19,13 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programing Languages</b> : HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP, Python, C++/C#, QT
+- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP
 - 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Gatsby.js, Vue.js, Three.js, Babylon.js, WebGL, D3.js, TailwindCSS, Material-UI, AntDesign, KendoUI
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask, Laravel
 - 🥇 <b>Top Skill</b> : Blockchain(Solidity, Web3.js), WebRTC, 3D Design, OpenCV, Machine Learning
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman, etc
+- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 - 💻 <b>Operation System</b> : Windows, Linux, MacOS
 <!--<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=perfectdev000&column=7&theme=onedark"/></p>-->
