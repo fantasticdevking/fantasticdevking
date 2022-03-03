@@ -16,15 +16,14 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP
-- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nust.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
+- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
+- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
 - 🥇 <b>Top Skill</b> : Blockchain, Web 3D Animation, AR/VR, WebRTC, Machine Learning
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
-- 💻 <b>Operation System</b> : Windows, Linux, MacOS
 <br><br>
 ## <b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=perfectdev000&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
