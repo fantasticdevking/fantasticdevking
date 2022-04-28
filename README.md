@@ -20,7 +20,6 @@
 - 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
 - 🥇 <b>Top Skill</b> : Blockchain(Solidity, Web3.js, NFTs, Smart Contract), 2D & 3D Animation, AR/VR, WebRTC
-- 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
