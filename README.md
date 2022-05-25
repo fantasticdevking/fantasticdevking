@@ -4,10 +4,10 @@
     <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   </p>-->
   <p>
-  Welcome to my profile!
-My name is Jin Wang and I am a skillful professional developer and independent freelancer and currently live in Canada.<br>
-My goal is to master all the relevant skills and become one of the best developers in the world, and I’m working towards it now!<br>
-My projects include building Web Development(Frontend & Backend), Animation, Web 3D Work(WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration), 2D & 3D Game Development, etc.<br><br>
+  Welcome to my profile!<br>
+  My name is Jin Wang and I am a Senior Developer and Independent Freelancer and currently live in Canada.<br>
+  My goal is to master all the relevant skills and become one of the best developers in the world, and I’m working towards it now!<br>
+  My projects include building Web Development(Frontend & Backend), Animation, Web 3D Work(WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration), 2D & 3D Game Development, etc.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
@@ -16,11 +16,14 @@ My projects include building Web Development(Frontend & Backend), Animation, Web
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
-- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
-- 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
-- 🥇 <b>Top Skill</b> : Blockchain(Solidity, Web3.js, NFTs, Smart Contract), 2D & 3D Animation, AR/VR, WebRTC
-- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
+- 💽 <b>Programming Languages</b> : JavaScript, TypeScript, Python, C++/C#, QT, PHP, HTML/HTML5, CSS/SCSS/SASS
+- 🗃 <b>Frontend Frameworks</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js
+- 🗃 <b>Backend Frameworks</b> : Node.js, Express.js, Nest.js, Django, Flask, Laravel
+- 📊 <b>Chart</b> : ApexCharts.js, Google Chart, D3.js
+- ⏱ <b>Animation</b> : GreenSock(GSAP), CSS Animation, React-motion
+- 🥇 <b>3D Work</b> : OpenGL, WebGL, Three.js, GLSL
+- 💰 <b>BlockChain</b> : Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity, Metaverse), Smart Contract(Solidty, Rust, C++, Golang), Frontend(Web3.js), Marketplace, Dex
+- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite, FireBase
 - ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 <br><br>
