@@ -4,10 +4,10 @@
     <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   </p>-->
   <p>
-  Hi there<br>
-  I'm a Skilled Professional Developer.<br><br>
-  I have been working in web and mobile development for 10+ years.<br><br>
-  My projects include building UI for web and mobile, Web 3D animation & AR/VR, backend & 3rd party API integration, web scraping & crawling, and more.<br><br>
+  Welcome to my profile!
+My name is Jin Wang and I am a skillful professional developer and independent freelancer and currently live in Canada.<br>
+My goal is to master all the relevant skills and become one of the best developers in the world, and I’m working towards it now!<br>
+My projects include building Web Development(Frontend & Backend), Animation, Web 3D Work(WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration), 2D & 3D Game Development, etc.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
