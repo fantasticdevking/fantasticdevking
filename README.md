@@ -1,8 +1,8 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Creative, Passionate and Efficient Full-Stack Engineer</h2>
 <p>
-  <!--<p>
-    <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-  </p>-->
+  <p>
+    <img width="100%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  </p>
   <p>
   Welcome to my profile!<br>
   My name is Jin Wang and I am a Senior Developer and Independent Freelancer and currently live in Canada.<br>
@@ -19,9 +19,10 @@
 - 💽 <b>Programming Languages</b> : JavaScript, TypeScript, Python, C++/C#, QT, PHP, HTML/HTML5, CSS/SCSS/SASS
 - 🗃 <b>Frontend Frameworks</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js
 - 🗃 <b>Backend Frameworks</b> : Node.js, Express.js, Nest.js, Django, Flask, Laravel
+- 🗃 <b>UI Library</b> : Tailwind CSS, Ant Design, Material-UI
 - 📊 <b>Chart</b> : ApexCharts.js, Google Chart, D3.js
-- ⏱ <b>Animation</b> : GreenSock(GSAP), CSS Animation, React-motion
-- 🥇 <b>3D Work</b> : OpenGL, WebGL, Three.js, GLSL
+- ⏲ <b>Animation</b> : GreenSock(GSAP), CSS Animation, React-motion
+- 📺 <b>3D Work</b> : OpenGL, WebGL, Three.js, GLSL
 - 💰 <b>BlockChain</b> : Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity, Metaverse), Smart Contract(Solidty, Rust, C++, Golang), Frontend(Web3.js), Marketplace, Dex
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite, FireBase
 - ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
