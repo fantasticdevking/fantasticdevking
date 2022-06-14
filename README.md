@@ -16,17 +16,17 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : JavaScript, TypeScript, Python, C++/C#, QT, PHP, HTML/HTML5, CSS/SCSS/SASS
+- 💽 <b>Programming Languages</b> : JavaScript, TypeScript, Python, C++, PHP, HTML/HTML5, CSS/SCSS/SASS
 - 🗃 <b>Frontend Frameworks</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js
 - 🗃 <b>Backend Frameworks</b> : Node.js, Express.js, Nest.js, Django, Flask, Laravel
 - 🗃 <b>UI Library</b> : Tailwind CSS, Ant Design, Material-UI
 - 📊 <b>Chart</b> : ApexCharts.js, Google Chart, D3.js
 - ⏲ <b>Animation</b> : GreenSock(GSAP), CSS Animation, React-motion
 - 📺 <b>3D Work</b> : OpenGL, WebGL, Three.js, GLSL
-- 💰 <b>BlockChain</b> : Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity, Metaverse), Smart Contract(Solidty, Rust, C++, Golang), Frontend(Web3.js), Marketplace, Dex
+- 💰 <b>BlockChain</b> : Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity, Metaverse), Smart Contract(Solidty, Golang), Frontend(Web3.js), Marketplace, Dex
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite, FireBase
-- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
-- 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
+- ⚖ <b>Testing Tools</b> : Mocha, Jasmine
+- 🌧 <b>Gloud Computing</b> : Google, AWS
 <br><br>
 ## <b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=perfectdev000&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
