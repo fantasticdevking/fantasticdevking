@@ -24,7 +24,7 @@
 - 📺 <b>3D Work</b> : OpenGL, WebGL, Three.js
 - 💰 <b>BlockChain</b> : Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity, Metaverse), Smart Contract(Solidty, Golang), Frontend(Web3.js), Marketplace, Dex
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, SQLite, FireBase
-- 🌧 <b>Gloud Computing</b> : Google, AWS
+- 🌧 <b>Cloud Computing</b> : Google, AWS
 <br><br>
 ## <b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=perfectdev000&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
