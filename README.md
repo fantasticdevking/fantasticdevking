@@ -5,8 +5,7 @@
   </p>
   <p>
   Welcome to my profile!<br>
-  My name is Jin Wang and I am a Senior Developer and Independent Freelancer and currently live in Canada.<br>
-  My goal is to master all the relevant skills and become one of the best developers in the world, and I’m working towards it now!<br>
+  My name is Jin Wang and I am a Senior Developer focusing MERN Stack, WebGL and BlockChain and currently live in Canada.<br>
   My projects include building Web Development(Frontend & Backend), Animation, Web 3D Work(WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration), 2D & 3D Game Development, etc.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
