@@ -1,12 +1,12 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Creative and Passionate Senior Developer</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Creative and Passionate Developer</h2>
 <p>
   <p>
     <img width="100%" src="https://github.com/perfectdev000/perfectdev000/blob/main/landing-home.png" />
   </p>
   <p>
   Welcome to my profile!<br>
-  My name is Jin Wang and I am a Senior Developer focusing MERN Stack, WebGL and BlockChain and currently live in Canada.<br>
-  My projects include building Web Development(Frontend & Backend), Animation, Web 3D Work(WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration), 2D & 3D Game Development, etc.<br><br>
+  My name is Jin and I am a Senior Developer focusing MERN Stack, WebGL and Blockchain and currently live in Canada.<br>
+  My projects include building Web Development(Frontend & Backend), Blockchain, Web 3D(WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration), 2D & 3D Game Development, etc.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
