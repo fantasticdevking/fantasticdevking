@@ -6,7 +6,7 @@
   <p>
   Welcome to my profile!<br>
   My name is Jin and I am a Senior Developer focusing MERN Stack, WebXR and Blockchain.<br>
-  My projects include building Web, Blockchain, WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration, 2D & 3D Game Development, etc.<br><br>
+  My projects include building Frontend & Backend, WebVR, WebAR, 360° Panorama Viewer, Metaverse, Blockchain, Game Development, etc.<br><br>
   🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 </p>
 <p align="center">
