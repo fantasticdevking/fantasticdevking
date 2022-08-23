@@ -25,10 +25,10 @@
 - 🌧 <b>Gloud Computing</b> : Google, AWS
 ## 💰 <b>Blockchain Skill Stack</b>
 - Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan)<br>
-- NFT(Minting, Presale, Public Sale, Royalty, Rarity, Metaverse)<br>
+- NFT(Minting, Presale, Public Sale, Royalty, Rarity)<br>
 - Smart Contract(Solidty, Golang)<br>
 - Frontend(Web3.js)<br>
-- Marketplace, Dex<br>
+- Metaverse, Marketplace, Dex<br>
 <br><br>
 ## <b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fantasticdevking&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
