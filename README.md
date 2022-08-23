@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Creative and Passionate Developer</h2>
 <p>
   <p>
-    <img width="100%" src="https://github.com/fantasticdevking/fantasticdevking/blob/main/landing-home.png" />
+    <img width="100%" src="https://github.com/fantasticdevking/fantasticdevking/blob/main/metaverse.png" />
   </p>
   <p>
   Welcome to my profile!<br>
