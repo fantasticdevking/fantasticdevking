@@ -14,15 +14,15 @@
 </p>
 
 <b color='green'> 🎬 I am ready to start a new challenge with you, so feel free to ping me.</b><br>
-## ⭐⭐⭐⭐⭐🏅My Core Skill Stack🏅⭐⭐⭐⭐⭐
+## ⭐⭐⭐⭐⭐🏅 <b>My Core Skill</b> 🏅⭐⭐⭐⭐⭐
 - 🔸 <b>Languages</b> : JavaScript, TypeScript, C++, Python, HTML, PHP
 - 🔸 <b>Frontend</b> : React, Next.js, Vue.js, Nuxt.js, SASS/SCSS, BootStrap, Tailwind CSS, AntD, Material-UI
 - 🔸 <b>Backend</b> : Node.js/Express.js, PHP/Laravel, Python/Django/Flask
-- 📺 <b>Computer Graphic</b> : SVG, Canvas, OpenGL, WebGL, Three.js, Babylon.js, GLSL
+- 📺 <b>Computer Graphic</b> : SVG, Canvas, OpenGL, WebGL, Three.js, Babylon.js, GLSL, GSAP
 - 🛢 <b>Database</b> : MongoDB, MySQL, PostgreSQL, SQLite, FireBase
 - 🔸 Google, AWS, Git/Github/Gitlab/Bitbucket, Heroku, Vecel
 - 💰 <b>Blockchain</b> :
- Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity), Smart Contract(Solidty, Golang), Frontend(Web3.js), Metaverse, Marketplace, Dex<br>
+ Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity), Smart Contract(Solidty), Web3.js, Metaverse, Marketplace, Dex<br>
 ## 😇 My Github Stats:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fantasticdevking&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=fantasticdevking&column=7&theme=onedark" alt="fantasticdevking" /></p>
