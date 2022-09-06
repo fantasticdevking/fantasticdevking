@@ -13,7 +13,7 @@
   <a href="https://github.com/fantasticdevking"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
-<b color='green'> 🎬 I am ready to start a new challenge with you, so feel free to ping me.</b><br>
+<b style="color: green"> 🎬 I am ready to start a new challenge with you, so feel free to ping me.</b><br>
 ## ⭐⭐⭐⭐⭐🏅 <b>My Core Skill</b> 🏅⭐⭐⭐⭐⭐
 - 🔸 <b>Languages</b> : JavaScript, TypeScript, C++, Python, HTML, PHP
 - 🔸 <b>Frontend</b> : React, Next.js, Vue.js, Nuxt.js, SASS/SCSS, BootStrap, Tailwind CSS, AntD, Material-UI
