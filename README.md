@@ -1,13 +1,14 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Creative and Passionate Developer</h2>
+<h2 align="center">
+<p align="center">
+  <a href="https://github.com/fantasticdevking"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Developer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+</p>
+</h2>
 <p>  
   <p>
   Welcome to my profile!<br>
   My name is Jin and I am a senior full stack developer with over 8 years of experience in software development using practical frameworks, most recent 3 years focusing on MERN stack, 3D visualization and blockchain.<br>
   I have worked on many projects in various industries including marketing, healthcare, e-commerce, real estate, auto insurance, and blockchain. I have also created 3D projects such as 3D modeling, 3D avatar, web virtual room, VRChat, Metaverse, 3D configurator, and 360 degree viewer.<br><br>
   </p>
-</p>
-<p align="center">
-  <a href="https://github.com/fantasticdevking"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 <br>
 
