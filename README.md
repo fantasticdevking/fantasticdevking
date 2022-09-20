@@ -1,8 +1,5 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Creative and Passionate Developer</h2>
-<p>
-  
-    <!--<img width="100%" src="https://github.com/fantasticdevking/fantasticdevking/blob/main/metaverse.png" />-->
-  
+<p>  
   <p>
   Welcome to my profile!<br>
   My name is Jin and I am a senior full stack developer with over 8 years of experience in software development using practical frameworks, most recent 3 years focusing on MERN stack, 3D visualization and blockchain.<br>
