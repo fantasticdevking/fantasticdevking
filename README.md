@@ -6,7 +6,7 @@
 <p>  
   <p>
   Welcome to my profile!<br>
-  My name is Jin and I am a senior full stack developer with over 8 years of experience in software development using practical frameworks, most recent 3 years focusing on MERN stack, 3D visualization and blockchain.<br>
+  My name is Jin and I am a senior full stack developer with over 8 years of experience in software development using practical frameworks, most recent focusing on MERN stack, 3D visualization and blockchain.<br>
   I have worked on many projects in various industries including marketing, healthcare, e-commerce, real estate, auto insurance, and blockchain. I have also created 3D projects such as 3D modeling, 3D avatar, web virtual room, VRChat, Metaverse, 3D configurator, and 360 degree viewer.<br><br>
   </p>
 </p>
