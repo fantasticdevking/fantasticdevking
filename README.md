@@ -9,6 +9,7 @@
   Welcome to my profile!<br>
   My name is Jin and I am a senior full stack developer with over 8 years of experience in software development using practical frameworks, most recent focusing on MERN stack, 3D visualization and blockchain.<br>
   I have worked on many projects in various industries including marketing, healthcare, e-commerce, real estate, auto insurance, and blockchain. I have also created 3D projects such as 3D modeling, 3D avatar, web virtual room, VRChat, Metaverse, 3D configurator, and 360 degree viewer.<br><br>
+  https://funny-dev-site.vercel.app/<br>
   </p>
 </p>
 <br>
@@ -21,7 +22,7 @@
 - 🛢 <b>Database</b> : MongoDB, MySQL, PostgreSQL, SQLite, FireBase
 - 🔸 Google, AWS, Git/Github/Gitlab/Bitbucket, Heroku, Vecel
 - 💰 <b>Blockchain</b> :
- Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity), Smart Contract(Solidty), Web3.js, Metaverse, Marketplace, Dex<br>
+ Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity), Smart Contract(Solidty), Web3.js, Metaverse, Marketplace, Dex<br><br>
 ## 😇 My Github Stats:
 <p align="center" style="margin-bottom: 10px;">
 <img src="https://github-profile-trophy.vercel.app/?username=fantasticdevking&column=7&theme=onedark" alt="fantasticdevking" />
