@@ -15,13 +15,13 @@
 <br>
 
 ## 🥇 <b>My Core Skill</b>
-- 🔸 <b>Languages</b> : JavaScript, TypeScript, C++, Python, HTML, PHP
-- 🔸 <b>Frontend</b> : React, Next.js, Vue.js, Nuxt.js, SASS/SCSS, BootStrap, Tailwind CSS, AntD, Material-UI
-- 🔸 <b>Backend</b> : Node.js/Express.js, PHP/Laravel, Python/Django/Flask
-- 📺 <b>Computer Graphic</b> : SVG, Canvas, OpenGL, WebGL, Three.js, Babylon.js, GLSL, GSAP
-- 🛢 <b>Database</b> : MongoDB, MySQL, PostgreSQL, SQLite, FireBase
-- 🔸 Google, AWS, Git/Github/Gitlab/Bitbucket, Heroku, Vecel
-- 💰 <b>Blockchain</b> :
+🔸 <b>Languages</b> : JavaScript, TypeScript, C++, Python, HTML, PHP<br>
+🔸 <b>Frontend</b> : React, Next.js, Vue.js, Nuxt.js, SASS/SCSS, BootStrap, Tailwind CSS, AntD, Material-UI<br>
+🔸 <b>Backend</b> : Node.js/Express.js, PHP/Laravel, Python/Django/Flask<br>
+📺 <b>Computer Graphic</b> : SVG, Canvas, OpenGL, WebGL, Three.js, Babylon.js, GLSL, GSAP<br>
+🛢 <b>Database</b> : MongoDB, MySQL, PostgreSQL, SQLite, FireBase<br>
+🔸 Google, AWS, Git/Github/Gitlab/Bitbucket, Heroku, Vecel<br>
+💰 <b>Blockchain</b> :
  Tokenomics(Minting, Presale, Pubilc Sale, Staking, Loan), NFT(Minting, Presale, Public Sale, Royalty, Rarity), Smart Contract(Solidty), Web3.js, Metaverse, Marketplace, Dex<br><br>
 ## 😇 My Github Stats:
 <p align="center" style="margin-bottom: 10px;">
