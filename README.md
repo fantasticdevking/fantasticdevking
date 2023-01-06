@@ -27,9 +27,5 @@
 <p align="center" style="margin-bottom: 10px;">
 <img src="https://github-profile-trophy.vercel.app/?username=fantasticdevking&column=7&theme=onedark" alt="fantasticdevking" />
 </p>
-<a href="https://github.com/fantasticdevking/fantasticdevking">
-  <img alt="fantasticdevking's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fantasticdevking&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
-</a>
-<br><br><br>
 <b> 🎬 I am ready to start a new challenge with you, so feel free to ping me.</b>
 
