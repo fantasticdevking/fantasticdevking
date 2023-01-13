@@ -1,13 +1,13 @@
 <h2 align="center">
   <p align="center">
-    <a href="https://github.com/fantasticdevking"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+    <a href="https://github.com/fantasticdevking"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Engineer;9+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
   </p>
 </h2>
 <p>
   <!--<img src="https://github.com/fantasticdevking/fantasticdevking/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
   Welcome to my profile!<br>
-  I am a senior full stack developer with over 9 years of experience in software development using practical frameworks, most recent focusing on MERN stack, 3D visualization and blockchain.<br>
+  I am a senior full stack engineer with over 9 years of experience in software development using practical frameworks, most recent focusing on MERN stack, 3D visualization and blockchain.<br>
   I have worked on many projects in various industries including marketing, healthcare, e-commerce, real estate, auto insurance, and blockchain. I have also created 3D projects such as 3D modeling, 3D avatar, web virtual room, VRChat, Metaverse, 3D configurator, and 360 degree viewer.<br><br>
   https://funny-dev-site.vercel.app/<br>
   </p>
