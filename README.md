@@ -6,10 +6,13 @@
 <p>
   <!--<img src="https://github.com/fantasticdevking/fantasticdevking/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
-  Welcome to my profile!<br>
-  I am a senior full stack engineer with over 9 years of experience in software development using practical frameworks, most recent focusing on MERN stack, 3D visualization and blockchain.<br>
-  I have worked on many projects in various industries including marketing, healthcare, e-commerce, real estate, auto insurance, and blockchain. I have also created 3D projects such as 3D modeling, 3D avatar, web virtual room, VRChat, Metaverse, 3D configurator, and 360 degree viewer.<br><br>
-  https://funny-dev-site.vercel.app/<br>
+    Welcome to my profile!<br>
+    I'm Jin Wang from Toronto, Canada.<br>
+    I studied in Math and Computer Science and received my bachelor's degree in 2012. As a professional developer, I have been working in software development since 2013.<br>
+    I have been worked in many projects in various industries including commerce, education, healthcare, construction and finance.<br>
+    Currently focusing on the MERN stack, WebVR/XR and Blockchain.<br>
+    My goal is to find the simplest solution that meets your needs.<br><br>
+    https://funny-dev-site.vercel.app/<br>
   </p>
 </p>
 <br>
