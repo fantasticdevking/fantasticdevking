@@ -8,7 +8,7 @@
   <p>
     Welcome to my profile!<br>
     I'm Jin Wang from Toronto, Canada.<br>
-    I studied in Math and Computer Science and received my bachelor's degree in 2012. As a professional developer, I have been working in software development since 2013.<br>
+    I studied in Math and Computer Science and received my bachelor's degree in 2016. As a professional developer, I have been working in software development since 2016.<br>
     I have been worked in many projects in various industries including commerce, education, healthcare, construction and finance.<br>
     Currently focusing on the MERN stack, WebXR/WebGL.<br>
     My goal is to find the simplest solution that meets your needs.<br><br>
