@@ -10,11 +10,9 @@
     I studied in Math and Computer Science in 2016. As a professional developer, I have been working in software development since 2016.<br>
     I have been worked in many projects in various industries including commerce, education, healthcare, construction and finance.<br>
     Currently focusing on the MERN stack, WebXR/WebGL.<br>
-    My goal is to find the simplest solution that meets your needs.<br><br>
-    https://jin-web.vercel.app/<br>
+    My goal is to find the simplest solution that meets your needs.
   </p>
 </p>
-<br>
 
 ## 🥇 <b>My Core Skill</b>
 🔸 <b>Languages</b> : JavaScript, TypeScript, C++, Python, HTML, PHP<br>
